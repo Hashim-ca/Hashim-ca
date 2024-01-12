@@ -1,6 +1,6 @@
 # Hi, I'm Hashim!
 
-## Business + Computer Science Student at University of Alberta
+## Business + Computer Science Student | University of Alberta
 
 ### Contact Information:
 - Resume: [resume](https://drive.google.com/file/d/1fpr1dH93_nnttDHOwlbcaciJG3hNn86c/view?usp=sharing)
