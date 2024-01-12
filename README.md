@@ -1,6 +1,6 @@
 # Hello, I'm Hashim!
 
-## Business and Computer Science Student 
+## Business + Computer Science Student 
 
 ### About Me
 - 🎓 Studying Management Information Systems & Computer Science at the University of Alberta.
