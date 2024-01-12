@@ -5,7 +5,7 @@
 ### About Me
 - 🎓 Studying Management Information Systems & Computer Science at the University of Alberta.
 - 💼 Experienced in data engineering roles at IBM and RBC.
-- 🏅 Contributed to an award-winning project in RBC's Amplify innovation program, leading to a patent.
+- 🏅 **RBC Capital Market, Amplify Program**: Was a data engineer in a team of 4, I contributed to building a news sentiment-based credit risk tool for the Capital Markets division. Our innovation was awarded a patent.
 
 ### Professional Experience
 - **IBM Software Laboratory**: Worked in the data team, focusing on cloud integration and data pipeline automation.
